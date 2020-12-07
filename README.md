@@ -8,7 +8,7 @@ How can municipalities, through digital solutions, motivate local companies towa
 
 ## Our Soluition:
 As a solutiion to the Challenge we decided to extend the existing website of the city of munich and add a couple of new features.
-For any further information please visit our wiki Page.
+For any further information please visit our wiki page.
 
 
 ## Links:
