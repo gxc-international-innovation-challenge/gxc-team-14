@@ -12,9 +12,8 @@ For any further information please visit our wiki page.
 
 
 ## Links:
- - Wiki https://github.com/gxc-international-innovation-challenge/gxc-team-14/wiki
- - Project board https://github.com/gxc-international-innovation-challenge/gxc-team-14/projects/2
- - Prototype https://www.figma.com/file/AFYO4BxsyWpzYN91IBWSIz/GXC-Colors?node-id=0%3A1
 
-
+ - [Wiki](https://github.com/gxc-international-innovation-challenge/gxc-team-14/wiki)
+ - [Project board](https://github.com/gxc-international-innovation-challenge/gxc-team-14/projects/2)
+ - [Prototype](https://www.figma.com/file/AFYO4BxsyWpzYN91IBWSIz/GXC-Colors?node-id=0%3A1)
 
