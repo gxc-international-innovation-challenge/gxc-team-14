@@ -6,8 +6,8 @@ In this reposetory you will find all the informations about our projekt.
 ## The Challenge:
 How can municipalities, through digital solutions, motivate local companies towards climate protection, in times of crisis?
 
-## Our Soluition:
-As a solutiion to the Challenge we decided to extend the existing website of the city of munich and add a couple of new features.
+## Our Solution:
+As a solution to the Challenge we decided to extend the existing website of the city of munich and add a couple of new features.
 For any further information please visit our wiki page.
 
 
