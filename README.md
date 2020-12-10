@@ -24,5 +24,6 @@ To use the prototype, click on the link above. Then, click on the "play" button 
 Things to try: 
 - Clicking on "see the ranking" and sorting the list by both percent of CO2 reduction and total CO2 reduction
 - Filtering the businesses by clicking the "restaurant/bar" option and then sorting the list by both percent of CO2 reduction and total CO2 reduction
-- Clicking on "
+- Clicking on "Bodo's Cafézelt" when the restaurant/bar filter is turned on and the list is sorted by total CO2 reduction
+- Clicking "Find businesses near me" on the home page to explore the map feature
 
